@@ -59,7 +59,7 @@ This outlines the step-by-step process for deploying a 2-tier web application (F
 1.  **Launch EC2 Instance:**
     * Navigate to the AWS EC2 console.
     * Launch a new instance using the **Ubuntu 24.04 LTS** AMI.
-    * Select the **t3.micro** instance type for free-tier eligibility.
+    * Select the **t3.small** instance type for free-tier eligibility.
     * Create and assign a new key pair for SSH access.
 
 <img src="diagrams/01.png">
