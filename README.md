@@ -178,7 +178,7 @@ The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch
 
 
 ### **9. Infrastructure Diagram**
-<img src="diagrams/Infrastructure.png">
+<img src="diagrams/infrastructure.png">
 
 
 ### **10. Work flow Diagram**
